@@ -1,2 +1,2 @@
-# I-Am-Rich-App
+# All-In-One-App
 My First Ever App
